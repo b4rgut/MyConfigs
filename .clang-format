@@ -1,9 +1,5 @@
-Language: Cpp
 BasedOnStyle: Google
+AccessModifierOffset: -4
+BreakBeforeBraces: WebKit
+AllowShortFunctionsOnASingleLine: Empty
 IndentWidth: 4
-UseTab: Never
-AlignConsecutiveAssignments: Consecutive
-AlignConsecutiveDeclarations: Consecutive
-AlignTrailingComments:
-    Kind: Always
-    OverEmptyLines: 2
